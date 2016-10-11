@@ -1,0 +1,13 @@
+.container {
+  position: relative;
+  width: 420px;
+  height: 360px;
+  margin: 20px auto 0;
+}
+
+.scene {
+  postion: absolute;
+  top: 0;
+  left: 0;
+  width: 100%
+}
